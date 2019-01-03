@@ -215,7 +215,7 @@ Here are a few examples:
 
 ## Full Example
 
-demo.Things:
+demo.things:
 
 ```xtend
 Bridge mqtt:broker:myUnsecureBroker [ host="192.168.0.42", secure=false ]
